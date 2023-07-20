@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    
+    color: rgb(245, 248, 250);
+    font-family: monospace;
+    
+    
+}
+.top{
+    background-color: black;
+    height: 70;
+    display: flex;
+}
+.nav-logo{
+    padding: 10;
+}
+.logoname{
+    padding-top: 25;
+}
+a{
+    text-decoration: none;
+}
